@@ -1,8 +1,9 @@
 # Brafé 2
 
-Simple Coffee Store using Grid.
+Simple pure HTML/CSS static page of a coffe store using Grid Layout.
 
-![brafe-2-grid](https://user-images.githubusercontent.com/52302576/82130997-e4f75080-97a6-11ea-8a40-499709c011f2.png)
+![brafe-2-grid](https://user-images.githubusercontent.com/52302576/82131752-e462b800-97ae-11ea-9a20-853a8675f9f2.png)
+
 
 ## Getting Started
 
@@ -16,7 +17,6 @@ Open index.html
 
 * HTML
 * CSS
-* JS
 
 ## Authors
 
