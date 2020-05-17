@@ -1,4 +1,4 @@
-# Brafé 2
+# [Brafé 2](https://hil-beer-t.github.io/brafe-2-grid/)
 
 Simple pure HTML/CSS static page of a coffe store using Grid Layout.
 
